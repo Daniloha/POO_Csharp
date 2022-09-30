@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.automationProfile.windows": {
+    
+    },
+    "terminal.integrated.defaultLocation": "view",
+    "files.trimFinalNewlines": true,
+    "editor.autoClosingBrackets": "languageDefined",
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": true,
+    "scss.format.braceStyle": "expand",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.namespace": "sameLine"
+}
